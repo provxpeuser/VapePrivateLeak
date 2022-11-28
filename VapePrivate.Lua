@@ -2,3 +2,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/provxpeuser/VapePrivateForRobloxWhitelistBypass/main/VapePrivateLoadstring.Lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/provxpeuser/VapePrivateForRobloxWhitelistBypass/main/VapePrivateModules.Lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/provxpeuser/VapePrivateForRobloxWhitelistBypass/main/NameTagForPrivate.Lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/provxpeuser/VapePrivateForRobloxWhitelistBypass/main/VapePrivateAdminCmds", true))()
